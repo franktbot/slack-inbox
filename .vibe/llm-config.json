@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "default": {
+      "provider": "anthropic",
+      "model": "claude-opus-4-6"
+    },
+    "fast": {
+      "provider": "google",
+      "model": "gemini-3-flash-preview"
+    }
+  }
+}
